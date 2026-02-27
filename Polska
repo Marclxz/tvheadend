@@ -1,74 +1,26 @@
 #EXTM3U url-tvg="https://epg.ovh/plar.xml", "https://epg.polishteam.one/guide.xml"
 #EXTINF:-1 tvg-id="TVP1 PL" tvg-name="TVP FHD PL" tvg-logo="http://tugapt.com/picons/tvp-hd-pl.png" group-title="Poland",TVP FHD PL
 http://fastopen.live:8080/lepNzbktQw/nkTl7Szbpr/6426
-#EXTINF:-1 tvg-id="TVP1 PL" tvg-name="TVP FHD (backup) PL" tvg-logo="http://tugapt.com/picons/tvp-hd-pl.png" group-title="Poland",TVP FHD (backup) PL
-http://fastopen.live:8080/lepNzbktQw/nkTl7Szbpr/107245
-#EXTINF:-1 tvg-id="TVP1 PL" tvg-name="TVP 1 PL" tvg-logo="http://tugapt.com/picons/tvp-1-pl.png" group-title="Poland",TVP 1 PL
-http://fastopen.live:8080/lepNzbktQw/nkTl7Szbpr/107246
 #EXTINF:-1 tvg-id="TVP1 PL" tvg-name="TVP 1 FHD PL" tvg-logo="http://tugapt.com/picons/tvp1hd.png" group-title="Poland",TVP 1 FHD PL
 http://fastopen.live:8080/lepNzbktQw/nkTl7Szbpr/868
-#EXTINF:-1 tvg-id="TVP2 PL" tvg-name="TVP 2 PL" tvg-logo="http://tugapt.com/picons/tvp-2-pl.png" group-title="Poland",TVP 2 PL
-http://fastopen.live:8080/lepNzbktQw/nkTl7Szbpr/107247
 #EXTINF:-1 tvg-id="TVP2 PL" tvg-name="TVP 2 FHD PL" tvg-logo="http://tugapt.com/picons/tvp2hd.png" group-title="Poland",TVP 2 FHD PL
 http://fastopen.live:8080/lepNzbktQw/nkTl7Szbpr/867
-#EXTINF:-1 tvg-id="TVP WILNO PL" tvg-name="TVP Wilno PL" tvg-logo="" group-title="Poland",TVP Wilno PL
-http://fastopen.live:8080/lepNzbktQw/nkTl7Szbpr/124680
 #EXTINF:-1 tvg-id="TVP WILNO PL" tvg-name="TVP Wilno FHD PL" tvg-logo="" group-title="Poland",TVP Wilno FHD PL
 http://fastopen.live:8080/lepNzbktQw/nkTl7Szbpr/124679
 #EXTINF:-1 tvg-id="TVC Super PL" tvg-name="TVC Super PL" tvg-logo="" group-title="Poland",TVC Super PL
 http://fastopen.live:8080/lepNzbktQw/nkTl7Szbpr/124678
-#EXTINF:-1 tvg-id="TVC HD PL" tvg-name="TVC PL" tvg-logo="" group-title="Poland",TVC PL
-http://fastopen.live:8080/lepNzbktQw/nkTl7Szbpr/124677
 #EXTINF:-1 tvg-id="TVC HD PL" tvg-name="TVC FHD PL" tvg-logo="" group-title="Poland",TVC FHD PL
 http://fastopen.live:8080/lepNzbktQw/nkTl7Szbpr/124676
-#EXTINF:-1 tvg-id="TVN HD PL" tvg-name="TVN PL" tvg-logo="http://tugapt.com/picons/tvn_pl.png" group-title="Poland",TVN PL
-http://fastopen.live:8080/lepNzbktQw/nkTl7Szbpr/107313
 #EXTINF:-1 tvg-id="TVN HD PL" tvg-name="TVN FHD PL" tvg-logo="http://tugapt.com/picons/tvn.png" group-title="Poland",TVN FHD PL
 http://fastopen.live:8080/lepNzbktQw/nkTl7Szbpr/839
 #EXTINF:-1 tvg-id="TVN 7 HD PL" tvg-name="TVN 7 FHD PL" tvg-logo="http://tugapt.com/picons/tvn-7-pl.png" group-title="Poland",TVN 7 FHD PL
 http://fastopen.live:8080/lepNzbktQw/nkTl7Szbpr/890
-#EXTINF:-1 tvg-id="TVN 7 HD PL" tvg-name="TVN 7 FHD (backup) PL" tvg-logo="http://tugapt.com/picons/tvn-7-pl.png" group-title="Poland",TVN 7 FHD (backup) PL
-http://fastopen.live:8080/lepNzbktQw/nkTl7Szbpr/107256
-#EXTINF:-1 tvg-id="TVN Kryminalnie Online PL" tvg-name="TVN Kryminalnie PL" tvg-logo="" group-title="Poland",TVN Kryminalnie PL
-http://fastopen.live:8080/lepNzbktQw/nkTl7Szbpr/117272
-#EXTINF:-1 tvg-id="TVN Talk Show Online PL" tvg-name="TVN Talk Show PL" tvg-logo="" group-title="Poland",TVN Talk Show PL
-http://fastopen.live:8080/lepNzbktQw/nkTl7Szbpr/117271
-#EXTINF:-1 tvg-id="TVN Rajska Miłosc Online PL" tvg-name="TVN Rajska Milosc PL" tvg-logo="" group-title="Poland",TVN Rajska Milosc PL
-http://fastopen.live:8080/lepNzbktQw/nkTl7Szbpr/117270
-#EXTINF:-1 tvg-id="TVN Kultowe Seriale Online PL" tvg-name="TVN Kultowe Seriale PL" tvg-logo="" group-title="Poland",TVN Kultowe Seriale PL
-http://fastopen.live:8080/lepNzbktQw/nkTl7Szbpr/117269
-#EXTINF:-1 tvg-id="TVN Prawo i Zycie Online PL" tvg-name="TVN Prawo i Zycie PL" tvg-logo="" group-title="Poland",TVN Prawo i Zycie PL
-http://fastopen.live:8080/lepNzbktQw/nkTl7Szbpr/117296
-#EXTINF:-1 tvg-id="TVN Usterka Online PL" tvg-name="TVN Usterka PL" tvg-logo="" group-title="Poland",TVN Usterka PL
-http://fastopen.live:8080/lepNzbktQw/nkTl7Szbpr/117295
-#EXTINF:-1 tvg-id="TVN Moto Online PL" tvg-name="TVN Moto PL" tvg-logo="" group-title="Poland",TVN Moto PL
-http://fastopen.live:8080/lepNzbktQw/nkTl7Szbpr/117294
-#EXTINF:-1 tvg-id="TVN W Domu Online PL" tvg-name="TVN W Domu PL" tvg-logo="" group-title="Poland",TVN W Domu PL
-http://fastopen.live:8080/lepNzbktQw/nkTl7Szbpr/117293
-#EXTINF:-1 tvg-id="TVN Szkoła Zycia Online PL" tvg-name="TVN Szkoła Zycia PL" tvg-logo="" group-title="Poland",TVN Szkoła Zycia PL
-http://fastopen.live:8080/lepNzbktQw/nkTl7Szbpr/117292
-#EXTINF:-1 tvg-id="TVN Seriale o Kobietach Online PL" tvg-name="TVN Seriale o Kobietach PL" tvg-logo="" group-title="Poland",TVN Seriale o Kobietach PL
-http://fastopen.live:8080/lepNzbktQw/nkTl7Szbpr/117291
-#EXTINF:-1 tvg-id="TVN Szpitalne Historie Online PL" tvg-name="TVN Szpitalne Historie PL" tvg-logo="" group-title="Poland",TVN Szpitalne Historie PL
-http://fastopen.live:8080/lepNzbktQw/nkTl7Szbpr/117290
-#EXTINF:-1 tvg-id="TVN Telenowele Online PL" tvg-name="TVN Telenowele PL" tvg-logo="" group-title="Poland",TVN Telenowele PL
-http://fastopen.live:8080/lepNzbktQw/nkTl7Szbpr/117289
-#EXTINF:-1 tvg-id="TVN Zycie Jak w Bajce Online PL" tvg-name="TVN Zycie Jak w Bajce PL" tvg-logo="" group-title="Poland",TVN Zycie Jak w Bajce PL
-http://fastopen.live:8080/lepNzbktQw/nkTl7Szbpr/117288
-#EXTINF:-1 tvg-id="TVN Momenty Prawdy Online PL" tvg-name="TVN Momenty Prawdy PL" tvg-logo="" group-title="Poland",TVN Momenty Prawdy PL
-http://fastopen.live:8080/lepNzbktQw/nkTl7Szbpr/117287
-#EXTINF:-1 tvg-id="TVN Rewolucje w Kuchni Online PL" tvg-name="TVN Rewolucje w Kuchni PL" tvg-logo="" group-title="Poland",TVN Rewolucje w Kuchni PL
-http://fastopen.live:8080/lepNzbktQw/nkTl7Szbpr/117268
 #EXTINF:-1 tvg-id="Polsat PL" tvg-name="Polsat HD PL" tvg-logo="" group-title="Poland",Polsat HD PL
 http://fastopen.live:8080/lepNzbktQw/nkTl7Szbpr/122193
 #EXTINF:-1 tvg-id="Polsat PL" tvg-name="Polsat 1 FHD PL" tvg-logo="http://tugapt.com/picons/polsat-1-pl.png" group-title="Poland",Polsat 1 FHD PL
 http://fastopen.live:8080/lepNzbktQw/nkTl7Szbpr/10448
-#EXTINF:-1 tvg-id="Polsat PL" tvg-name="Polsat 1 HD PL" tvg-logo="http://tugapt.com/picons/polsat-1-pl.png" group-title="Poland",Polsat 1 HD PL
-http://fastopen.live:8080/lepNzbktQw/nkTl7Szbpr/107243
 #EXTINF:-1 tvg-id="POLSAT 2 PL" tvg-name="Polsat 2 FHD PL" tvg-logo="http://tugapt.com/picons/polsat-2-pl.png" group-title="Poland",Polsat 2 FHD PL
 http://fastopen.live:8080/lepNzbktQw/nkTl7Szbpr/6430
-#EXTINF:-1 tvg-id="POLSAT 2 PL" tvg-name="Polsat 2 HD PL" tvg-logo="http://tugapt.com/picons/polsat-2-pl.png" group-title="Poland",Polsat 2 HD PL
-http://fastopen.live:8080/lepNzbktQw/nkTl7Szbpr/107244
 #EXTINF:-1 tvg-id="POLSAT Film HD PL" tvg-name="Polsat Film FHD PL" tvg-logo="http://tugapt.com/picons/polsat-film-pl.png" group-title="Poland",Polsat Film FHD PL
 http://fastopen.live:8080/lepNzbktQw/nkTl7Szbpr/870
 #EXTINF:-1 tvg-id="Comedy Central PL" tvg-name="Polsat Comedy Central FHD PL" tvg-logo="http://tugapt.com/picons/comedy-central-deutschland-us-de.png" group-title="Poland",Polsat Comedy Central FHD PL
@@ -859,3 +811,4 @@ http://fastopen.live:8080/lepNzbktQw/nkTl7Szbpr/124689
 http://fastopen.live:8080/lepNzbktQw/nkTl7Szbpr/124688
 #EXTINF:-1 tvg-id="13.tv PL" tvg-name="13 TV FHD PL" tvg-logo="" group-title="Poland",13 TV FHD PL
 http://fastopen.live:8080/lepNzbktQw/nkTl7Szbpr/116683
+
